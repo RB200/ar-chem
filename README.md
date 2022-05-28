@@ -1,1 +1,1 @@
-# ar-chem
+# PRO-C174-Teacher-Boilerplate
